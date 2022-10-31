@@ -1,0 +1,181 @@
+@media (max-width: 600.98px) {
+
+    .menu-row {
+        display: none;
+    }
+
+    [class*="offset-"] {
+        margin: unset !important;
+    }
+
+    .site-header {
+        padding: .5rem 0;
+    }
+
+    .office-info,
+    .office-contact-form,
+    .map-container,
+    .home-about p,
+    .site-branding img {
+        width: 100%;
+    }
+
+    .home-banner {
+        height: calc(100vh - 95.7px);
+    }
+
+    .theme-section-title h1,
+    .banner-slider h1 {
+        font-size: 2.75rem;
+        font-weight: 200;
+    }
+
+    .home-banner .owl-dots {
+        right: 1rem;
+    }
+
+    .home-about span {
+        margin-top: 2rem;
+    }
+
+    .theme-padding,
+    .site-footer {
+        padding: 2rem 0;
+    }
+
+    footer .custom-logo-link img,
+    .team-card,
+    .practice-area-card {
+        margin-bottom: 1rem;
+    }
+
+    .about-the-firm p,
+    .searchpanel input,
+    .theme-section-title span,
+    .single article p,
+    .single article li {
+        font-size: 1rem;
+    }
+
+    .accordion-header button {
+        font-size: 1.25rem;
+    }
+
+    .home-banner,
+    .single-office iframe,
+    .theme-section-title {
+        height: 70vh;
+    }
+
+    .accordion-button {
+        padding: 1rem 0;
+    }
+
+    .team-content-nav,
+    .accordion-item {
+        padding: unset;
+    }
+
+    .mobile-panel .search-for {
+        padding: 0 1rem;
+        font-size: 1rem;
+    }
+
+    .accordion-body {
+        padding: 0 1rem 1rem;
+    }
+
+    .search-for {
+        padding: 0 2rem;
+        font-size: 20px;
+    }
+
+    .searchpanel {
+        height: calc(100vh / 4);
+    }
+
+    .team-profile-nav>ul {
+        display: block;
+    }
+
+    .team-profile-nav>ul {
+        text-align: center;
+    }
+
+    .team-meta {
+        padding: 1rem 0;
+        display: block;
+    }
+
+    .single-office iframe,
+    .theme-section-title {
+        height: 65vh;
+    }
+
+    .news-row img {
+        position: relative !important;
+    }
+
+    .map-container,
+    .home-about img {
+        position: relative;
+    }
+
+    .news-content {
+        padding: 0;
+    }
+
+    .entry-meta ul li:first-child {
+        display: none;
+    }
+
+    .entry-meta ul li:first-child {
+        margin-right: 0rem;
+    }
+
+    .news-row:not(:last-child) {
+        margin-bottom: 1rem;
+    }
+
+    .first-word {
+        color: #f8f8f833;
+    }
+
+    .first-word {
+        font-size: 6rem !important;
+        text-align: right;
+    }
+
+    .home-about img {
+        width: 100%;
+        border-radius: 0px;
+    }
+
+    .site-footer h6 {
+        margin: 1rem 0;
+    }
+
+    .site-footer .row .col:nth-child(n+3) {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .site-footer:not(.home .site-footer),
+    .home-about {
+        padding-top: 0;
+    }
+
+    footer .text-end, 
+    .footer-row-bottom {
+        text-align: center !important;
+    }
+
+    .values .nav {
+        padding-left: 12px;
+    }
+
+    .tab-content, 
+    .single-office iframe {
+        margin-top: 1rem;
+    }
+}
